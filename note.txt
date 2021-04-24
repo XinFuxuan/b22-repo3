@@ -5,3 +5,11 @@ few things happend:
 1. it aoutomatically created new remote repo under your github.com account. 
 2. made the connection with your local git repo 
 3. added all your commits to remote repo 
+
+
+now our work will continue lovallu 
+
+1. adda new file called note.txt
+2.commited the changes locally 
+3. we want this change to be reflected in remote repository 
+we puched local commits using puch oringin button 
