@@ -13,3 +13,12 @@ now our work will continue lovallu
 2.commited the changes locally 
 3. we want this change to be reflected in remote repository 
 we puched local commits using puch oringin button 
+
+
+we do not have to push one commit at a time 
+could me amny time at the time 
+
+we are using undo
+
+
+we are making more changes 
